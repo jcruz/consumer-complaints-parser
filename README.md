@@ -2,12 +2,12 @@
 
 ## Installation
 Python 3 required. Recommended to install pip packages within a [virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/#creating-a-virtualenv).
-```bash
+```
 $ pip install -r requirements.txt
 ```
 
 ## Get Started
-```bash
+```
 $ python consumer_complaint_parser.py
 you're in the consumer complaints parser cli! type `help` to get started.
 >
@@ -39,3 +39,6 @@ you're in the consumer complaints parser cli! type `help` to get started.
 0: 2018
 1: CA 2018
 ```
+
+## Documentation
+- [Web app design doc](docs/Design.md)
